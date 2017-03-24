@@ -91,3 +91,11 @@ html, body {
     background: #bbb;
     color: #666;
 }
+.header {
+    height: 24px;
+    position: fixed;
+}
+.header button {
+    float: left;
+    margin: 0 0 0 10px;
+}
